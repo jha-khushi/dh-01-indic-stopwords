@@ -1,0 +1,26 @@
+02_rag_flora_fauna/rag_pipeline.py
+  s_5a02c502e9a5a2::t_22899e0d4b0921 48
+  s_5a02c502e9a5a2::t_ef04ab10815f03 12-15
+  s_5a02c502e9a5a2::t_0facfd6ba2d499 133-158,163-170
+02_rag_flora_fauna/make_flora_fauna.py
+  s_5a02c502e9a5a2::t_d6587470273980 28-32
+index.html
+  s_5a02c502e9a5a2::t_660007aba8180c 374-397
+  s_5a02c502e9a5a2::t_66b7c446035251 314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "175353ac61d7582c71314411d56f44e730ae2813",
+  "prompts": {},
+  "sessions": {
+    "s_5a02c502e9a5a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2d63629-4982-4c11-a56f-53eb75dee1e6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "jha-khushi <224996314+jha-khushi@users.noreply.github.com>"
+    }
+  }
+}
