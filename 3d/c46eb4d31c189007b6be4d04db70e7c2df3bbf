@@ -1,0 +1,60 @@
+03_synthetic_reading/prompt.txt
+  s_5a02c502e9a5a2::t_31cb32f098c03d 1-30
+02_rag_flora_fauna/corpus/old_deccan_days.txt
+  s_5a02c502e9a5a2::t_22c49412070d03 1-9812
+02_rag_flora_fauna/rag_pipeline.py
+  s_5a02c502e9a5a2::t_ce7b6e3169af44 1-259
+04_skill/SKILL.md
+  s_5a02c502e9a5a2::t_7473db82edc407 1-82
+02_rag_flora_fauna/corpus/hindu_literature_hitopadesha_nala_ramayana.txt
+  s_5a02c502e9a5a2::t_22c49412070d03 1-18395
+02_rag_flora_fauna/make_flora_fauna.py
+  s_5a02c502e9a5a2::t_98f6c06e9e9978 33
+  s_5a02c502e9a5a2::t_3f52be93a16b4a 1-32,34-90
+03_synthetic_reading/initial_impression.md
+  s_5a02c502e9a5a2::t_9e7de51f119176 1-27
+03_synthetic_reading/extract_themes.py
+  s_5a02c502e9a5a2::t_7653355cb7a21e 1-73
+02_rag_flora_fauna/corpus/tagore_the_home_and_the_world.txt
+  s_5a02c502e9a5a2::t_22c49412070d03 1-8144
+03_synthetic_reading/partial_reading.py
+  s_5a02c502e9a5a2::t_9cc4119e63f893 12-13,25-33,36-39,52-71
+  s_5a02c502e9a5a2::t_3987e249600635 1-11,14-24,34-35,40-51
+03_synthetic_reading/subha.txt
+  s_5a02c502e9a5a2::t_8d0b69ffcbf28c 1-3,5-44
+  s_5a02c502e9a5a2::t_6f4f0f2e1e6ba1 4
+02_rag_flora_fauna/.gitignore
+  s_5a02c502e9a5a2::t_e90b29a2ab153e 1-2
+02_rag_flora_fauna/corpus/indian_fairy_tales.txt
+  s_5a02c502e9a5a2::t_37cab6a9df1cce 1-7533
+02_rag_flora_fauna/corpus/jataka_tales.txt
+  s_5a02c502e9a5a2::t_7935046fdab317 1-1530
+02_rag_flora_fauna/corpus/kalidasa_shakuntala_and_other_works.txt
+  s_5a02c502e9a5a2::t_4237fb51870d5b 1-10683
+02_rag_flora_fauna/corpus/tagore_stories.txt
+  s_5a02c502e9a5a2::t_bf28dd0c617fb7 1-5524
+02_rag_flora_fauna/corpus/tagore_the_gardener.txt
+  s_5a02c502e9a5a2::t_5c7b98a1f2b98c 1-1959
+03_synthetic_reading/.gitignore
+  s_5a02c502e9a5a2::t_f7c98ce7ec5f83 1
+03_synthetic_reading/partial_reading.txt
+  s_5a02c502e9a5a2::t_1da6ffb29446ba 1-14
+02_rag_flora_fauna/preprocess.py
+  s_5a02c502e9a5a2::t_398c15824fb2c3 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3dc46eb4d31c189007b6be4d04db70e7c2df3bbf",
+  "prompts": {},
+  "sessions": {
+    "s_5a02c502e9a5a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2d63629-4982-4c11-a56f-53eb75dee1e6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "jha-khushi <224996314+jha-khushi@users.noreply.github.com>"
+    }
+  }
+}
