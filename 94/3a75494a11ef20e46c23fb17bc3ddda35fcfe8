@@ -1,0 +1,65 @@
+03_synthetic_reading/extract_themes.py
+  s_5a02c502e9a5a2::t_f16f9cbd398a10 56-70
+  s_5a02c502e9a5a2::t_91758e4df20224 4-5
+  s_5a02c502e9a5a2::t_b595fdade2cc1b 27-28
+  s_5a02c502e9a5a2::t_4f38e1acdfa928 39-40
+  s_5a02c502e9a5a2::t_7f866fb4986d48 6
+  s_5a02c502e9a5a2::t_c35ba947683678 7
+index.html
+  s_5a02c502e9a5a2::t_e3f64d644eaede 349,351-360,363-367
+  s_5a02c502e9a5a2::t_7cd693aba92c37 374,376-385,388-399
+  s_5a02c502e9a5a2::t_469d94154cb4bf 304,435,438,449-456
+03_synthetic_reading/visualise.py
+  s_5a02c502e9a5a2::t_85ca199301c7e2 1-32,34-96
+  s_5a02c502e9a5a2::t_6e8f96bebb752b 33
+03_synthetic_reading/Subha_Themes.py
+  s_5a02c502e9a5a2::t_8f81a5336583fa 1-215
+02_rag_flora_fauna/make_flora_fauna.py
+  s_5a02c502e9a5a2::t_c03954c3581417 4-5,7,17,36-41,78
+03_synthetic_reading/prompt.txt
+  s_5a02c502e9a5a2::t_52a67c64531db5 22
+  s_5a02c502e9a5a2::t_14f89f89913d28 4,25-26
+03_synthetic_reading/results/llm_extraction.json
+  s_5a02c502e9a5a2::t_f2ba4701e30821 1-5,155,159-161,163,166-167,169-170,173,175-178,182,191,196-197,204,206,208-209,213,222-225,227,229,240,242-244,247-249,253-254,256,258-259,267-270,408-415,417-419,427-429,431-432,434,436-438,443,446-447,455-462,468,473-475,494-496,512-515,644,649-650,656-659,661-663,666,669-670,675,677,687,689-690,707-709,718,723,735-738
+  s_5a02c502e9a5a2::t_fc9fb3df72726c 6-154,156-158,162,164-165,168,171-172,174,179-181,183-190,192-195,198-203,205,207,210-212,214-221,226,228,230-239,241,245-246,250-252,255,257,260-266,271-407,416,420-426,430,433,435,439-442,444-445,448-454,463-467,469-472,476-493,497-511,516-643,645-648,651-655,660,664-665,667-668,671-674,676,678-686,688,691-706,710-717,719-722,724-734
+02_rag_flora_fauna/validate_results.py
+  s_5a02c502e9a5a2::t_7b3523fea5cae9 1-109,115-116,118,120-155,157-176
+  s_5a02c502e9a5a2::t_0ec01966ab61d1 110-114,117,119,156
+02_rag_flora_fauna/results/validated.json
+  s_5a02c502e9a5a2::t_0ec01966ab61d1 53-67,261,278,297,327,414-415,750-764,854,992-997,1435,1439,1444,1448,1945,1949,2080,2082
+  s_5a02c502e9a5a2::t_48806d21e6589e 1-52,68-260,262-277,279-296,298-326,328-413,416-749,765-853,855-991,998-1434,1436-1438,1440-1443,1445-1447,1449-1944,1946-1948,1950-2079,2081,2083-2179
+02_rag_flora_fauna/results/run_log.txt
+  s_5a02c502e9a5a2::t_f2ba4701e30821 2
+  s_5a02c502e9a5a2::t_fc9fb3df72726c 3
+  s_5a02c502e9a5a2::t_8b8ad7cd73f34f 1
+  s_5a02c502e9a5a2::t_dfe927e0f9c5b0 4-6
+  s_5a02c502e9a5a2::t_17b4dc2d309026 7
+03_synthetic_reading/interpretation.md
+  s_5a02c502e9a5a2::t_be45e48333d9b5 26
+  s_5a02c502e9a5a2::t_83537db7b4b9f6 1-16,18-25,27-46
+  s_5a02c502e9a5a2::t_545236052618a4 17
+02_rag_flora_fauna/flora_fauna.py
+  s_5a02c502e9a5a2::t_c03954c3581417 1-131
+03_synthetic_reading/results_log.txt
+  s_5a02c502e9a5a2::t_fc9fb3df72726c 1-3
+03_synthetic_reading/results/first_run_whole_stages.json
+  s_5a02c502e9a5a2::t_bc5dc58b9a189d 1-1299
+02_rag_flora_fauna/results/extractions.json
+  s_5a02c502e9a5a2::t_1185fc2cf2640a 1-2043
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "943a75494a11ef20e46c23fb17bc3ddda35fcfe8",
+  "prompts": {},
+  "sessions": {
+    "s_5a02c502e9a5a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2d63629-4982-4c11-a56f-53eb75dee1e6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "jha-khushi <224996314+jha-khushi@users.noreply.github.com>"
+    }
+  }
+}
