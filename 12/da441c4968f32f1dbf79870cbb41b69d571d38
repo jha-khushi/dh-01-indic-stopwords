@@ -1,0 +1,22 @@
+index.html
+  s_5a02c502e9a5a2::t_c7ff3422fb05da 333,335-336,339-342
+marathi_stopwords.py
+  s_5a02c502e9a5a2::t_c2345b8a87efd9 82
+  s_5a02c502e9a5a2::t_68533092f0d76e 1-81,83-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "12da441c4968f32f1dbf79870cbb41b69d571d38",
+  "prompts": {},
+  "sessions": {
+    "s_5a02c502e9a5a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2d63629-4982-4c11-a56f-53eb75dee1e6",
+        "model": "unknown"
+      },
+      "human_author": "jha-khushi <224996314+jha-khushi@users.noreply.github.com>"
+    }
+  }
+}
