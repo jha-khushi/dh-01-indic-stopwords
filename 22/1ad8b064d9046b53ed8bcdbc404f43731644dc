@@ -1,0 +1,23 @@
+03_synthetic_reading/initial_impression.md
+  s_5a02c502e9a5a2::t_9c79b0d2be586d 27-29
+03_synthetic_reading/interpretation.md
+  s_5a02c502e9a5a2::t_997a27f96b435c 3,5,7,9,11,15-23,25,27,29,31,33,35,37,39-42,47
+index.html
+  s_5a02c502e9a5a2::t_a7eee65b4f3645 455
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "221ad8b064d9046b53ed8bcdbc404f43731644dc",
+  "prompts": {},
+  "sessions": {
+    "s_5a02c502e9a5a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2d63629-4982-4c11-a56f-53eb75dee1e6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "jha-khushi <224996314+jha-khushi@users.noreply.github.com>"
+    }
+  }
+}
