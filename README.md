@@ -13,6 +13,10 @@ Stop-word lists for four Indic languages in four scripts. Each file follows the 
 python hindi_stopwords.py      # prints the list size and a before/after example
 ```
 
+Charts of the lists (sizes and make-up): `python visualise.py` writes [figures/](figures/).
+
+![What each list is made of](figures/list_composition.png)
+
 The lists are tested on real text in [dh-05-stopword-evaluation](https://github.com/jha-khushi/dh-05-stopword-evaluation).
 
 ---
